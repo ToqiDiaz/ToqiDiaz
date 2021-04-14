@@ -1,0 +1,6 @@
+[2021-04-13 21:12:17.107] [renderer1] [warning] UNRESPONSIVE extension host, 'esbenp.prettier-vscode' took 97% of 5333.746ms, saved PROFILE here: 'file:///tmp/exthost-0f3ea9.cpuprofile' [{"id":"esbenp.prettier-vscode","total":5176267,"percentage":97},{"id":"self","total":50986,"percentage":1},{"id":"vscode.git","total":33639,"percentage":1},{"id":"vscode.php-language-features","total":72417,"percentage":1}]
+[2021-04-13 21:19:30.312] [renderer1] [error] Failed to execute git
+[2021-04-13 21:23:40.693] [renderer1] [error] Failed to execute git
+[2021-04-13 21:23:43.047] [renderer1] [error] Failed to execute git
+[2021-04-13 21:23:45.331] [renderer1] [error] Failed to execute git
+[2021-04-13 21:41:11.577] [renderer1] [error] Failed to execute git

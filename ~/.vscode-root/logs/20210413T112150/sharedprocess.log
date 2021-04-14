@@ -1,0 +1,25 @@
+[2021-04-13 11:22:37.514] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-13 11:37:57.134] [sharedprocess] [info] Installing extension: balasubramanian.ajax-query
+[2021-04-13 11:38:00.611] [sharedprocess] [info] Downloaded extension: balasubramanian.ajax-query undefined
+[2021-04-13 11:38:01.073] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.0f67510c-b1d0-4c49-91d2-ee78348c79cf: balasubramanian.ajax-query
+[2021-04-13 11:38:01.082] [sharedprocess] [info] Renamed to /root/.vscode/extensions/balasubramanian.ajax-query-0.6.0
+[2021-04-13 11:38:01.083] [sharedprocess] [info] Installation completed. balasubramanian.ajax-query
+[2021-04-13 11:38:01.622] [sharedprocess] [info] Installing extension: ms-mssql.mssql
+[2021-04-13 11:38:08.336] [sharedprocess] [info] Downloaded extension: ms-mssql.mssql undefined
+[2021-04-13 11:38:14.708] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.61eb21d7-ff8f-4b4c-ac69-ae7bdac3e13a: ms-mssql.mssql
+[2021-04-13 11:38:14.725] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-mssql.mssql-1.10.1
+[2021-04-13 11:38:14.731] [sharedprocess] [info] Installation completed. ms-mssql.mssql
+[2021-04-13 11:38:14.818] [sharedprocess] [info] Extensions installed successfully: ms-mssql.mssql
+[2021-04-13 11:38:14.822] [sharedprocess] [info] Extensions installed successfully: balasubramanian.ajax-query
+[2021-04-13 11:39:31.564] [sharedprocess] [info] Uninstalling extension: balasubramanian.ajax-query
+[2021-04-13 11:39:31.601] [sharedprocess] [info] Successfully uninstalled extension: balasubramanian.ajax-query
+[2021-04-13 11:39:31.953] [sharedprocess] [info] Detected extension removed from another source balasubramanian.ajax-query
+[2021-04-13 11:39:43.183] [sharedprocess] [info] Installing extension: memphis335.ajax-snippets
+[2021-04-13 11:39:53.442] [sharedprocess] [info] Downloaded extension: memphis335.ajax-snippets undefined
+[2021-04-13 11:39:53.490] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ec88bd5d-e908-4cbe-9b13-e43000e7a376: memphis335.ajax-snippets
+[2021-04-13 11:39:53.499] [sharedprocess] [info] Renamed to /root/.vscode/extensions/memphis335.ajax-snippets-1.9.1
+[2021-04-13 11:39:53.500] [sharedprocess] [info] Installation completed. memphis335.ajax-snippets
+[2021-04-13 11:39:53.503] [sharedprocess] [info] Extensions installed successfully: memphis335.ajax-snippets
+[2021-04-13 12:07:55.640] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-13 14:51:15.504] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-04-13 17:22:29.669] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

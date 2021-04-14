@@ -1,0 +1,745 @@
+Looking for git in: git
+Using git 2.30.0 from git
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/demoTienda
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/template/header.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :ajax/funciones.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/jquery-3.6.0.min.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/jquery-3.6.0.min.js
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git show --textconv :ajax/jquery-3.6.0.min.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/jquery-3.6.0.min.js
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :template/footer.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/footer.php
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git show --textconv :template/footer.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/footer.php
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git show --textconv :template/footer.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/footer.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :ajax/jquery-3.6.0.min.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/jquery-3.6.0.min.js
+> git show --textconv :ajax/funciones.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/funciones.js
+> git show --textconv :ajax/jquery-3.6.0.min.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/jquery-3.6.0.min.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:view/viewAddCategory.php
+> git ls-tree -l HEAD -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:ajax/jquery-3.6.0.min.js
+> git ls-tree -l HEAD -- /opt/lampp/htdocs/demoTienda/ajax/jquery-3.6.0.min.js
+fatal: Not a valid object name HEAD
+> git show --textconv HEAD:index.php
+> git ls-tree -l HEAD -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv HEAD:ajax/jquery-3.6.0.min.js
+> git ls-tree -l HEAD -- /opt/lampp/htdocs/demoTienda/ajax/jquery-3.6.0.min.js
+fatal: Not a valid object name HEAD
+fatal: Not a valid object name HEAD
+> git show --textconv HEAD:~/.vscode-root/languagepacks.json
+> git ls-tree -l HEAD -- /opt/lampp/htdocs/demoTienda/~/.vscode-root/languagepacks.json
+fatal: Not a valid object name HEAD
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:index.php
+> git ls-tree -l HEAD -- /opt/lampp/htdocs/demoTienda/index.php
+fatal: Not a valid object name HEAD
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/index.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :controller/db.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/db.php
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+fatal: your current branch 'master' does not have any commits yet
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :view/viewAddProduc
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+fatal: your current branch 'master' does not have any commits yet
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :ajax/jquery-3.6.0.min.js
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/ajax/jquery-3.6.0.min.js
+> git show --textconv :template/footer.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/footer.php
+> git show --textconv :template/header.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/template/header.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :controller/addCategoryProduct.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addCategoryProduct.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/index.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/index.php
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git show --textconv :view/viewAddProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddProduc.php
+> git show --textconv :view/viewAddCategory.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/view/viewAddCategory.php
+> git show --textconv :index.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/index.php
+> git show --textconv :controller/addProduc.php
+> git ls-files --stage -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /opt/lampp/htdocs/demoTienda/controller/addProduc.php
+fatal: your current branch 'master' does not have any commits yet
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

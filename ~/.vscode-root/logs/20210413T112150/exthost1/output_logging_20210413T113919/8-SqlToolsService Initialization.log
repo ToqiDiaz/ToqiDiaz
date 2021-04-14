@@ -1,0 +1,11 @@
+Initializing SQL tools service for the mssql extension.
+Note: mssql commands will be available after installing the service.
+
+Platform: linux, x86_64, name=kali, version=2021.1 (Ubuntu16)
+
+Installing SQL tools service to /root/.vscode/extensions/ms-mssql.mssql-1.10.1/sqltoolsservice/1.10.0/Ubuntu16.
+Downloading https://download.microsoft.com/download/9/6/7/96792b35-04b8-4ef0-8d38-c634ef975e3b/microsoft.sqltools.servicelayer-rhel-x64-netcoreapp3.1.tar.gz
+(49298 KB) .................... Done!
+Installing ...
+Done! 543 files unpacked.
+
